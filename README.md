@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+🌱 I’m currently learning back end development on [Boot.dev](https://www.boot.dev?bannerlord=trumaine)
+
+<p align="center">
+  <a href="https://www.boot.dev/u/trumaine">
+    <img alt="Trumaine's Boot.dev Profile" src="https://api.boot.dev/v1/users/public/a4fbc345-8cff-4a3d-aaea-82730d5d0f69/thumbnail" >
+  </a>
+</p>
+
 <!--
 **trumaine/trumaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
